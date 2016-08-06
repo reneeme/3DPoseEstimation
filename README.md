@@ -1,5 +1,6 @@
 # 3DPoseEstimation
 The article describes application of POSIT algorithm for object's 3D pose estimation.
+http://www.aforgenet.com/articles/posit/
 
 ## Introduction
 3D pose estimation of an object from its image plays important role in many different applications, like calibration, cartography, object recognition/tracking and, of course, augmented reality. The last application was of my particular interest, since I wanted to complete the glyph recognition project I did so it provides 3D augmented reality instead of 2D.
